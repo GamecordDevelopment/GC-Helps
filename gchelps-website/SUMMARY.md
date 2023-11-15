@@ -10,12 +10,12 @@
 ## 🎮 • Gamecord
 
 * [🔗 Linked Roles](gamecord/linked-roles.md)
-* [❓ GC Helper](gamecord/gc-helper.md)
+* [❓ GC Helper](gamecord/gc-helper/README.md)
+  * [😀 External Emojis](gamecord/gc-helper/external-emojis.md)
 
 ## 🆘 Assistant
 
 * [🆔 About Me](assistant/about-me.md)
-* [😀 External Emojis](assistant/external-emojis.md)
 
 ## 📍 Featured
 
