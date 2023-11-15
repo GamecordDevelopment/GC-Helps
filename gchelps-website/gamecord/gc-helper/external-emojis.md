@@ -1,7 +1,7 @@
 ---
 description: >-
   › On this page you'll find a solution on how to fix external emojis not
-  working in hidden messages.
+  working on bot messages.
 ---
 
 # 😀 External Emojis
