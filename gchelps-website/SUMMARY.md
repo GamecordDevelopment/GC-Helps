@@ -10,6 +10,7 @@
 ## 🎮 • Gamecord
 
 * [🔗 Linked Roles](gamecord/linked-roles.md)
+* [❓ GC Helper](gamecord/gc-helper.md)
 
 ## 🆘 Assistant
 
