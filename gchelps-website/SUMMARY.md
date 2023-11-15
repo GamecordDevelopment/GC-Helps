@@ -10,7 +10,6 @@
 ## 🎮 • Gamecord
 
 * [🔗 Linked Roles](gamecord/linked-roles.md)
-* [🎂 Birthday Calendar](gamecord/birthday-calendar.md)
 
 ## 🆘 Assistant
 
