@@ -13,9 +13,9 @@
 * [❓ GC Helper](gamecord/gc-helper/README.md)
   * [😀 External Emojis](gamecord/gc-helper/external-emojis.md)
 
-## 🆘 Assistant
+## ❓ GC Helper <a href="#helper" id="helper"></a>
 
-* [🆔 About Me](assistant/about-me.md)
+* [🔒 Policy Privacy](helper/policy-privacy.md)
 
 ## 📍 Featured
 
